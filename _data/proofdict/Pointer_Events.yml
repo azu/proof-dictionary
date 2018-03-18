@@ -1,10 +1,12 @@
 id: 01BQ92YYBH2EZP1E4KVNDMXYV9
-description: ''
+description: 'Pointer Eventsに統一'
 expected: Pointer Events
 patterns:
   - /pointer event/i
   - /pointer events/i
 specs:
+  - from: Pointer Events
+    to: Pointer Events
   - from: MSEdgeの対応、pointer eventsなど対応、
     to: MSEdgeの対応、Pointer Eventsなど対応、
   - from: MSEdgeの対応、pointer eventなど対応、
