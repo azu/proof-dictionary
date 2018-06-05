@@ -1,0 +1,14 @@
+id: 01CF6NR1Q7XWC035B9XJXNB852
+description: typo
+expected: $1nimation
+patterns:
+  - /(a)nimation/i
+specs:
+  - from: Animation
+    to: Animation
+  - from: CSS Animation
+    to: CSS Animation
+  - from: CSS animations
+    to: CSS animations
+tags:
+  - noun
