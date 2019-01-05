@@ -9,3 +9,5 @@ specs:
 tags:
   - noun
   - opinion
+allows:
+  - '{{COMBINATION_WORD}}'

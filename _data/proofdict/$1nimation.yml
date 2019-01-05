@@ -12,3 +12,5 @@ specs:
     to: CSS animations
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

@@ -8,3 +8,5 @@ specs:
     to: Travis CI is a service
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

@@ -12,3 +12,5 @@ specs:
     to: node-webkit
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

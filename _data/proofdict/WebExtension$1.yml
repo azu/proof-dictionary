@@ -18,3 +18,5 @@ specs:
       extensions
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

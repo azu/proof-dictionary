@@ -9,3 +9,5 @@ specs:
     to: HTML5 Rocksに現在公開されている翻訳記事のまとめ
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

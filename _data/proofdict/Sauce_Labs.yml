@@ -6,3 +6,5 @@ patterns:
 specs: []
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

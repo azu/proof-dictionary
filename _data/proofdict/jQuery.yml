@@ -8,9 +8,10 @@ specs:
     to: jQuery
   - from: jquery
     to: jQuery
-  # `noun` tag allow to ignore <word>-<suffix>
   - from: jquery-ui
     to: jquery-ui
 tags:
   - noun
   - JavaScript
+allows:
+  - '{{COMBINATION_WORD}}'

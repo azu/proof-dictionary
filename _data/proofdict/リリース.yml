@@ -5,6 +5,6 @@ patterns:
   - リリーう
 specs:
   - from: アプリをリリーう
-    to  : アプリをリリース
+    to: アプリをリリース
 tags:
   - typo

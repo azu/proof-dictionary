@@ -1,14 +1,15 @@
 id: 01BQ92YYBJXRCA80R6BCA4SS7K
-description: 'Angular(2.0~)'
+description: Angular(2.0~)
 expected: Angular
 patterns:
   - /angular/i
 specs:
   - from: angular
     to: Angular
-  # different term
   - from: angulardart
     to: angulardart
 tags:
   - noun
   - JavaScript
+allows:
+  - '{{COMBINATION_WORD}}'

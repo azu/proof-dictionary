@@ -6,8 +6,14 @@ patterns:
   - /Web AudioAPI/i
   - /Web Audio API/i
 specs:
-  - from: All scheduled times in the WebAudio API are relative to the value of currentTime.
-    to: All scheduled times in the Web Audio API are relative to the value of currentTime.
+  - from: >-
+      All scheduled times in the WebAudio API are relative to the value of
+      currentTime.
+    to: >-
+      All scheduled times in the Web Audio API are relative to the value of
+      currentTime.
 tags:
   - noun
   - JavaScript
+allows:
+  - '{{COMBINATION_WORD}}'

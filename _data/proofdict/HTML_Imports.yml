@@ -5,7 +5,9 @@ patterns:
   - /HTML Import/i
 specs:
   - from: HTML import
-    to:   HTML Imports
+    to: HTML Imports
 tags:
   - noun
   - JavaScript
+allows:
+  - '{{COMBINATION_WORD}}'

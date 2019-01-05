@@ -1,9 +1,11 @@
 id: 01BQ92YYBEFBXEHH8T8HC8RCRD
-description: 'Reference https://www.ecma-international.org/publications/standards/Ecma-262.htm'
+description: >-
+  Reference
+  https://www.ecma-international.org/publications/standards/Ecma-262.htm
 expected: ECMAScript $1
 patterns:
-  - /ECMAScript([0-9]+)/i
-  - /ECMA Script([0-9]+)/i
+  - '/ECMAScript([0-9]+)/i'
+  - '/ECMA Script([0-9]+)/i'
 specs:
   - from: ECMASCRIPT5
     to: ECMAScript 5
@@ -12,3 +14,5 @@ specs:
 tags:
   - noun
   - JavaScript
+allows:
+  - '{{COMBINATION_WORD}}'

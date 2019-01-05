@@ -9,7 +9,8 @@ specs:
     to: localStorage is a parts of webstorage
   - from: local storage is a parts of webstorage
     to: localStorage is a parts of webstorage
-
 tags:
   - noun
   - JavaScript
+allows:
+  - '{{COMBINATION_WORD}}'

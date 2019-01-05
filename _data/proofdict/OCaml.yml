@@ -8,3 +8,5 @@ specs:
     to: OCaml
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

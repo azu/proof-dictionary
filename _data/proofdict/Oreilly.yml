@@ -8,3 +8,5 @@ specs:
     to: Oreilly
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

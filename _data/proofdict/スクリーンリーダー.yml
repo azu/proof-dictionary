@@ -3,7 +3,8 @@ description: スクリーンリーダーは伸ばし棒を入れる
 expected: スクリーンリーダー
 patterns:
   - /スクリーンリーダ(?!ー)/
-allows: []
+allows:
+  - '{{COMBINATION_WORD}}'
 specs:
   - from: スクリーンリーダーはそのまま
     to: スクリーンリーダーはそのまま

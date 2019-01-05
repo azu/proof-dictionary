@@ -10,3 +10,5 @@ specs:
     to: Windows 10
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

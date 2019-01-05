@@ -1,5 +1,5 @@
 id: 01BQ92YYBH2EZP1E4KVNDMXYV9
-description: 'Pointer Eventsに統一'
+description: Pointer Eventsに統一
 expected: Pointer Events
 patterns:
   - /pointer event/i
@@ -16,3 +16,5 @@ specs:
 tags:
   - JavaScript
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

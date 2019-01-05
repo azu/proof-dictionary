@@ -10,3 +10,5 @@ specs:
     to: Chrome is chromium
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

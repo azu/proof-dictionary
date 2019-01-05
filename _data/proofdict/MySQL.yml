@@ -10,3 +10,5 @@ specs:
     to: Oracle MySQL
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

@@ -8,3 +8,5 @@ specs:
     to: Leanpub
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'

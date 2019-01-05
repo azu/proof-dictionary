@@ -5,8 +5,10 @@ patterns:
   - /VirtualDOM/i
 specs:
   - from: VirtualDOM is virtual dom object
-    to:   Virtual DOM is virtual dom object
+    to: Virtual DOM is virtual dom object
 tags:
   - noun
   - opinion
   - JavaScript
+allows:
+  - '{{COMBINATION_WORD}}'

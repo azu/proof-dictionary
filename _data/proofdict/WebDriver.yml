@@ -6,10 +6,12 @@ patterns:
   - /Web Driver/i
 specs:
   - from: Web Driver is designed in a simpler and more concise programming interface
-    to  : WebDriver is designed in a simpler and more concise programming interface
+    to: WebDriver is designed in a simpler and more concise programming interface
   - from: webdriver is designed in a simpler and more concise programming interface
-    to  : WebDriver is designed in a simpler and more concise programming interface
+    to: WebDriver is designed in a simpler and more concise programming interface
   - from: WebdriverIO is OK.
-    to  : WebdriverIO is OK.
+    to: WebdriverIO is OK.
 tags:
   - noun
+allows:
+  - '{{COMBINATION_WORD}}'
