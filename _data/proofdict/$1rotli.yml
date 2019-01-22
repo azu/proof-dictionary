@@ -1,0 +1,15 @@
+id: 01D1SNYB7AA69NTAEBT1X651RB
+description: Brotliはbr
+expected: $1rotli
+patterns:
+  - /\b(b)rottli\b/i
+allows: []
+specs:
+  - from: brottli compression
+    to: brotli compression
+  - from: brottli圧縮
+    to: brotli圧縮
+  - from: BrotliはbrotliでOK
+    to: BrotliはbrotliでOK
+tags:
+  - noun
