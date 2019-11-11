@@ -6,6 +6,6 @@ patterns:
 allows: []
 specs:
   - from: HTTP Archieve
-    to: HTTP  Archive
+    to: HTTP Archive
 tags:
   - noun
