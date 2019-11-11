@@ -1,0 +1,11 @@
+id: 01DSDJ2ZNSB644ZB0SD53C62X5
+description: ''
+expected: ' Archive'
+patterns:
+  - Archieve
+allows: []
+specs:
+  - from: HTTP Archieve
+    to: HTTP  Archive
+tags:
+  - noun
