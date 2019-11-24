@@ -1,0 +1,15 @@
+id: 01DTET96387SQ3VYTXHYSX5BYS
+description: 'WebAssembly (abbreviated Wasm) https://webassembly.org/'
+expected: Wasm
+patterns:
+  - /wasm/i
+allows: []
+specs:
+  - from: wasm
+    to: Wasm
+  - from: WAsm
+    to: Wasm
+  - from: 'WebAssembly (abbreviated Wasm) '
+    to: 'WebAssembly (abbreviated Wasm) '
+tags:
+  - noun
