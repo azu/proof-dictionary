@@ -2,12 +2,18 @@ id: 01BQ92YXWK9BE72T24NA95YZEC
 description: ライブラリのtypoです
 expected: ライブラリ
 patterns:
-  - ライブライ
   - ライブらい
+  - ライブライ
+  - /ライブラリ(!?ー)/
+allows: []
 specs:
+  - from: ライブラリー
+    to: ライブラリ
+  - from: ライブラリ
+    to: ライブラリ
   - from: ライブらい
     to: ライブラリ
-  - from: ライブライ
-    to: ライブラリ
+  - from: JavaScriptライブラリー
+    to: JavaScriptライブラリ
 tags:
   - typo
