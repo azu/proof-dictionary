@@ -1,0 +1,15 @@
+id: 01EF8QSDGRB63DFJ54B68AKN7J
+description: 'webpack is lower-case https://webpack.js.org/'
+expected: webpack
+patterns:
+  - /\bwebpack\b/i
+allows: []
+specs:
+  - from: webpack
+    to: webpack
+  - from: WebPack
+    to: webpack
+  - from: BuildWebPack is OK
+    to: BuildWebPack is OK
+tags:
+  - noun
