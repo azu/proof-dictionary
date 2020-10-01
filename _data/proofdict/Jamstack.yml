@@ -1,0 +1,15 @@
+id: 01EKJAAAXCZR005PDSTRVT24QZ
+description: 'Jamstackに統一された https://github.com/jamstack/jamstack.org/issues/279'
+expected: Jamstack
+patterns:
+  - /\bJAMStack\b/i
+allows: []
+specs:
+  - from: Jamstack
+    to: Jamstack
+  - from: JAMStack is old word
+    to: Jamstack is old word
+  - from: jamjasmstack
+    to: jamjasmstack
+tags:
+  - noun
