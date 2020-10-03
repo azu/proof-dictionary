@@ -1,0 +1,16 @@
+id: 01EKP3RFQ18K47EYH1ZKB5E4R5
+description: 'https://github.com/GoogleChrome/lighthouse'
+expected: Lighthouse
+patterns:
+  - /\bLighthouse\b/i
+allows:
+  - '{{COMBINATION_WORD}}'
+specs:
+  - from: ' lighthouse'
+    to: ' Lighthouse'
+  - from: lighthouse-cli
+    to: lighthouse-cli
+  - from: Lighthouse analyzes web apps
+    to: Lighthouse analyzes web apps
+tags:
+  - noun
