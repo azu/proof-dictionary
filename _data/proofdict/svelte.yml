@@ -1,0 +1,13 @@
+id: 01F0W5YS57VWFW3DAP3EC92D6Z
+description: 'https://github.com/sveltejs'
+expected: $1velte
+patterns:
+  - /(s)velete/i
+allows: []
+specs:
+  - from: svelete
+    to: svelte
+  - from: Svelete
+    to: Svelte
+tags:
+  - noun
