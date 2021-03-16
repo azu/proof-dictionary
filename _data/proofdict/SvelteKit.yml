@@ -1,0 +1,13 @@
+id: 01F0W5YS57VWFW3DAP3EC92D6Y
+description: 'https://github.com/sveltejs/kit'
+expected: SvelteKit
+patterns:
+  - /SveleteKit/i
+allows: []
+specs:
+  - from: SveleteKit
+    to: SvelteKit
+  - from: SvelteKit
+    to: SvelteKit
+tags:
+  - noun
