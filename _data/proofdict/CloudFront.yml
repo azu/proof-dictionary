@@ -1,0 +1,16 @@
+id: 01F4VMKJAEKHMANZVFFR9D6DJA
+description: 'AWS CloudFront https://aws.amazon.com/jp/cloudfront/'
+expected: CloudFront
+patterns:
+  - /\bCloudFront\b/i
+allows:
+  - '{{COMBINATION_WORD}}'
+specs:
+  - from: 'Cloudront'
+    to: 'Cloudront'
+  - from: 'Cloudfront'
+    to: 'CloudFront'
+  - from: awscloudfront
+    to: awscloudfront
+tags:
+  - noun
