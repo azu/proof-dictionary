@@ -1,0 +1,16 @@
+id: 01FB0ZGJEK2GEKX4AM7KCT1E8Y
+description: WHAWG typo
+expected: WHATWG
+patterns:
+  - /\bWHAWG\b/
+  - /\bWHATWGT\b/
+allows: []
+specs:
+  - from: WHATWG
+    to: WHATWG
+  - from: WHAWG
+    to: WHATWG
+  - from: WHATWG
+    to: WHATWG
+tags:
+  - noun
