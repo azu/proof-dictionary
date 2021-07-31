@@ -1,0 +1,12 @@
+id: 01FBXHRK03WPWGMVJWMTAQXQTS
+description: コントロールのtypo
+expected: コントロール
+patterns:
+  - コントール
+allows: []
+specs:
+  - from: コントロール
+    to: コントロール
+  - from: コントール
+    to: コントロール
+tags: []
