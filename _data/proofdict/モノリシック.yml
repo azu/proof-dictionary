@@ -1,0 +1,15 @@
+id: 01FQ08AYVH77SGN2JQFFSPP5E1
+description: monolithicのtypo
+expected: モノリシック
+patterns:
+  - モノシリック
+allows: []
+specs:
+  - from: モノリシック
+    to: モノリシック
+  - from: monolithic
+    to: monolithic
+  - from: モノシリック
+    to: モノリシック
+tags:
+  - noun
