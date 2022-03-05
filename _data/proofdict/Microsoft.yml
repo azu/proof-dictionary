@@ -1,0 +1,15 @@
+id: 01FXD5E4MNMPYWCJPV2KG5Y5QZ
+description: typo
+expected: Microsoft
+patterns:
+  - /Microsfot/i
+allows: []
+specs:
+  - from: MicrosfotV
+    to: MicrosfotV
+  - from: MS
+    to: MS
+  - from: MicrosoftVisio
+    to: MicrosoftVisio
+tags:
+  - noun
