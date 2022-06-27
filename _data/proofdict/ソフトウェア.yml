@@ -1,0 +1,11 @@
+id: 01G6JKZB5NTQEGYB0DHTT249DN
+description: typo
+expected: ソフトウェア
+patterns:
+  - ソフウェア
+allows: []
+specs:
+  - from: ソフウェア
+    to: ソフトウェア
+tags:
+  - noun
