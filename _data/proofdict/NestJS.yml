@@ -1,0 +1,13 @@
+id: 01G8GDRNBSXRWWTB493W353VFV
+description: 'NestJS https://nestjs.com/'
+expected: NestJS
+patterns:
+  - /Nest\.js/i
+  - Nestjs
+allows: []
+specs:
+  - from: NestJS
+    to: NestJS
+  - from: Nest.js
+    to: NestJS
+tags: []
