@@ -3,7 +3,7 @@ description: 'NestJS https://nestjs.com/'
 expected: NestJS
 patterns:
   - /Nest\.js/i
-  - Nestjs
+  - /Nestjs/i
 allows: []
 specs:
   - from: NestJS
