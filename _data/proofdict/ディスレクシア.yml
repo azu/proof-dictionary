@@ -1,0 +1,15 @@
+id: 01GEK2FYQMKDQ6PDB68RWCT1EX
+description: 「ディスレクシア」読み書きに困難がある人
+expected: ディスレクシア
+patterns:
+  - ディスクレシア
+allows: []
+specs:
+  - from: ディスクレシア
+    to: ディスレクシア
+  - from: ディスレクシアなどの読み書きに困難がある人
+    to: ディスレクシアなどの読み書きに困難がある人
+  - from: ' 記事初出時「ディスクレシア」と誤った表記'
+    to: ' 記事初出時「ディスレクシア」と誤った表記'
+tags:
+  - noun
