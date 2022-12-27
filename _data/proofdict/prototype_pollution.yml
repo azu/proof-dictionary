@@ -1,0 +1,13 @@
+id: 01GN8FN82HBSNH9NJYT0F30Q8B
+description: ''
+expected: prototype pollution
+patterns:
+  - prototype pollusion
+allows: []
+specs:
+  - from: prototype pollution
+    to: prototype pollution
+  - from: prototype pollusion
+    to: prototype pollution
+tags:
+  - noun
