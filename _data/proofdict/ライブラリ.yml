@@ -2,6 +2,7 @@ id: 01BQ92YXWK9BE72T24NA95YZEC
 description: ライブラリのtypoです
 expected: ライブラリ
 patterns:
+  - ライブラり
   - ライブらい
   - ライブライ
   - /ライブラリ(!?ー)/
