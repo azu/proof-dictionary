@@ -1,0 +1,13 @@
+id: 01HHNXJ42TNWCBJ8AN0ZAHR895
+description: '*s*がつく https://nextjs.org/docs/pages'
+expected: Pages Router
+patterns:
+  - /\bpage router\b/
+allows: []
+specs:
+  - from: Pages Router
+    to: Pages Router
+  - from: page router
+    to: Pages Router
+tags:
+  - noun
