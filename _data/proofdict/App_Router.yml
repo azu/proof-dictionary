@@ -1,0 +1,18 @@
+id: 01HHNXJ42TNWCBJ8AN0ZAHR893
+description: '*s*がつかない https://nextjs.org/docs/app'
+expected: App Router
+patterns:
+  - /\bapp router\b/
+  - /\bApps Router\b/
+allows: []
+specs:
+  - from: Pages Router
+    to: Pages Router
+  - from: page router
+    to: page router
+  - from: app router
+    to: App Router
+  - from: Apps Router
+    to: App Router
+tags:
+  - noun
